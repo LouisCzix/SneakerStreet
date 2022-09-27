@@ -1,4 +1,4 @@
-package com.example.sneakers.repository.Sneaker;
+package com.example.sneakers.repositories.Sneaker;
 
 import lombok.Getter;
 import lombok.Setter;

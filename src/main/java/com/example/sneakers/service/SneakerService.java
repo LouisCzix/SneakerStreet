@@ -1,8 +1,8 @@
 package com.example.sneakers.service;
 
 import com.example.sneakers.entity.sneaker.Sneaker;
-import com.example.sneakers.repository.Sneaker.SneakerForm;
-import com.example.sneakers.repository.Sneaker.SneakerRepository;
+import com.example.sneakers.repositories.Sneaker.SneakerForm;
+import com.example.sneakers.repositories.Sneaker.SneakerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

@@ -1,7 +1,7 @@
 package com.example.sneakers.entity.sneaker;
 
 
-import com.example.sneakers.repository.Sneaker.SneakerForm;
+import com.example.sneakers.repositories.Sneaker.SneakerForm;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.data.annotation.Id;

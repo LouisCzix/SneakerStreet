@@ -1,4 +1,4 @@
-package com.example.sneakers.repository.Sneaker;
+package com.example.sneakers.repositories.Sneaker;
 
 import com.example.sneakers.entity.sneaker.Sneaker;
 import org.springframework.data.mongodb.repository.MongoRepository;
